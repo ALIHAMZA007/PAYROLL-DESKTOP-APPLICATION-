@@ -1,0 +1,25 @@
+C:\Users\ALI HAMZA\AppData\Local\Temporary Projects\payroll management system\bin\Debug\payroll management system.exe
+C:\Users\ALI HAMZA\AppData\Local\Temporary Projects\payroll management system\bin\Debug\payroll management system.pdb
+C:\Users\ALI HAMZA\AppData\Local\Temporary Projects\payroll management system\obj\x86\Debug\payroll_management_system.Form1.resources
+C:\Users\ALI HAMZA\AppData\Local\Temporary Projects\payroll management system\obj\x86\Debug\payroll_management_system.Properties.Resources.resources
+C:\Users\ALI HAMZA\AppData\Local\Temporary Projects\payroll management system\obj\x86\Debug\payroll management system.csproj.GenerateResource.Cache
+C:\Users\ALI HAMZA\AppData\Local\Temporary Projects\payroll management system\obj\x86\Debug\payroll management system.exe
+C:\Users\ALI HAMZA\AppData\Local\Temporary Projects\payroll management system\obj\x86\Debug\payroll management system.pdb
+C:\Users\ALI HAMZA\documents\visual studio 2010\Projects\payroll management system\payroll management system\obj\x86\Debug\payroll management system.exe
+C:\Users\ALI HAMZA\documents\visual studio 2010\Projects\payroll management system\payroll management system\obj\x86\Debug\payroll management system.pdb
+C:\Users\ALI HAMZA\documents\visual studio 2010\Projects\payroll management system\payroll management system\bin\Debug\payroll management system.exe
+C:\Users\ALI HAMZA\documents\visual studio 2010\Projects\payroll management system\payroll management system\bin\Debug\payroll management system.pdb
+C:\Users\ALI HAMZA\documents\visual studio 2010\Projects\payroll management system\payroll management system\obj\x86\Debug\payroll_management_system.Properties.Resources.resources
+C:\Users\ALI HAMZA\documents\visual studio 2010\Projects\payroll management system\payroll management system\obj\x86\Debug\payroll management system.csproj.GenerateResource.Cache
+C:\Users\ALI HAMZA\documents\visual studio 2010\Projects\payroll management system\payroll management system\obj\x86\Debug\payroll_management_system.EMPOLYEEINFO.resources
+C:\Users\ALI HAMZA\documents\visual studio 2010\Projects\payroll management system\payroll management system\obj\x86\Debug\payroll management system.csprojResolveAssemblyReference.cache
+C:\Users\ALI HAMZA\documents\visual studio 2010\Projects\payroll management system\payroll management system\obj\x86\Debug\payroll_management_system.BONUS.resources
+C:\Users\ALI HAMZA\documents\visual studio 2010\Projects\payroll management system\payroll management system\obj\x86\Debug\payroll_management_system.INCENTIVES.resources
+C:\Users\ALI HAMZA\documents\visual studio 2010\Projects\payroll management system\payroll management system\obj\x86\Debug\payroll_management_system.LEAVE.resources
+C:\Users\ALI HAMZA\documents\visual studio 2010\Projects\payroll management system\payroll management system\obj\x86\Debug\payroll_management_system.PRESENT.resources
+C:\Users\ALI HAMZA\documents\visual studio 2010\Projects\payroll management system\payroll management system\obj\x86\Debug\payroll_management_system.HOLIDAYS.resources
+C:\Users\ALI HAMZA\documents\visual studio 2010\Projects\payroll management system\payroll management system\obj\x86\Debug\payroll_management_system.DESIGNATION.resources
+C:\Users\ALI HAMZA\documents\visual studio 2010\Projects\payroll management system\payroll management system\obj\x86\Debug\payroll_management_system.OTHERINFO.resources
+C:\Users\ALI HAMZA\documents\visual studio 2010\Projects\payroll management system\payroll management system\obj\x86\Debug\payroll_management_system.SALARY.resources
+C:\Users\ALI HAMZA\documents\visual studio 2010\Projects\payroll management system\payroll management system\obj\x86\Debug\payroll_management_system.image.resources
+C:\Users\ALI HAMZA\documents\visual studio 2010\Projects\payroll management system\payroll management system\obj\x86\Debug\payroll_management_system.LOAN.resources
